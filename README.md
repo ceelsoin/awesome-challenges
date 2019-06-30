@@ -28,17 +28,6 @@ Como objetivos secundários, temos
 
 ## Challenges
 
-1. Frontend
-* Web
-* Mobile
-* Desktop
-2. Backend
-
-3. Database
-* SQL
-
-
-
 
 # Frontend
 ## Web
