@@ -27,3 +27,30 @@ Como objetivos secundários, temos
 
 
 ## Challenges
+
+1. Frontend
+* Web
+* Mobile
+* Desktop
+2. Backend
+* ASP .NET Core
+* NodeJS
+* PHP
+3. Database
+* SQL
+
+
+
+
+# Frontend
+## Web
+## Mobile
+## Desktop
+
+# Backend
+## ASP .NET Core
+## NodeJS
+## PHP
+
+# Database
+## SQL
