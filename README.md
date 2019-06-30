@@ -29,8 +29,8 @@ Como objetivos secundários, temos
 ## Challenges
 
 
-# Frontend
-## Web
+### Frontend
+#### Web
 * [Construa um site, que exiba a hora atual de Brasília e a hora atual de Londres.](https://github.com/cybers-athletic/challenge-alpha)
 * [Desafio 2, Calculadora Web simples](https://github.com/cybers-athletic/challenge-bravo)
 * [Previsão do tempo consumindo a api do Yahoo](https://github.com/cybers-athletic/challenge-echo)
@@ -42,12 +42,12 @@ Como objetivos secundários, temos
 * 
 
 
-## Mobile
+#### Mobile
 * [Construa um app para pesquisa de satisfação](https://github.com/cybers-athletic/challenge-juliett)
 * [Construa um checklist](https://github.com/cybers-athletic/challenge-november)
-## Desktop
+#### Desktop
 
-# Backend
+#### Backend
  * [Lista de contatos simples](https://github.com/cybers-athletic/challenge-charlie)
  * [API de cotação monetária com conversão](https://github.com/cybers-athletic/challenge-delta)
  * [Criar uma lista de compra](https://github.com/cybers-athletic/challenge-foxtrot)
@@ -55,5 +55,5 @@ Como objetivos secundários, temos
  * [Construa uma importação para um banco de dados](https://github.com/cybers-athletic/challenge-oscar)
  * [Leitura e processamento de arquivos](https://github.com/cybers-athletic/challenge-papa)
 
-# Database
-## SQL
+#### Database
+##### SQL
