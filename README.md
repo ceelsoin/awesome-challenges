@@ -38,8 +38,7 @@ Como objetivos secundários, temos
 * [Desenvolver um Front para o Globo Esporte](https://github.com/cybers-athletic/challenge-india)
 * [Desenvolva uma lista ToDo usando React (Ou outra tecnologia)](https://github.com/cybers-athletic/challenge-kilo)
 * [Construa uma Vitrine de quadrinhos utilizando a API da Marvel](https://github.com/cybers-athletic/challenge-lima)
-* [Construa um Jornal com base no layout do designer](https://github.com/cybers-athletic/challenge-mike)
-* 
+* [Construa um Jornal com base no layout do designer](https://github.com/cybers-athletic/challenge-mike) 
 
 
 #### Mobile
