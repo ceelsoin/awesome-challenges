@@ -8,11 +8,11 @@ Esse repositório serve para listar os desafios e prover as instruções básica
 
 ## Objetivos
 
-O objetivo principal, é 
+O objetivo principal, é: 
 
 - Que ao final dos desafios, todos os participantes tenham um portfolio (com ou sem blog) pessoal usando das técnologias mais modernas.
 
-Como objetivos secundários, temos 
+Como objetivos secundários, temos: 
 
 - Melhorar o conhecimento para desenvolvimento de produtos
 - Melhorar a concepção de UX 
